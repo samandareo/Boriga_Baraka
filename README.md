@@ -15,4 +15,4 @@ Kodni browser consollarida ishlating!
 <br>
 
 
-**Skript** mana shu browser consollarida sinovdan o'tdi.
+_Skript_ mana shu browser consollarida sinovdan o'tdi.
