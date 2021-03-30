@@ -12,4 +12,4 @@ Kodni browser consollarida ishlating!
 >Firefox Developer Edition
 
 <br>
-_Skript_ mana shu browser consollarida sinovdan o'tdi.
+*Skript* mana shu browser consollarida sinovdan o'tdi.
