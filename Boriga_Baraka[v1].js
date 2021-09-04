@@ -23,7 +23,7 @@ function gName(){
     return prompt("Salom . Boriga Baraka o'yiniga xush kelibsiz! Men Muzaffarbek Mirzabekov bugun sizning xizmatingizdaman! Sizning ismingiz?");
 }
 
-// Ism o'zgaruvchiga tenglandi \\
+// Ism o'zgaruvchiga tenglandi . \\
 var name = gName();
 
 // O'yinni boshlash uchun tushuncha \\
@@ -108,7 +108,7 @@ function game(){
             }else if(myPrize[myNum] == "Lampochka"){ // Lampochka tekshirilmoqda
                 alert(" Afsus! " + name + ". Siz lampochka yutdingiz. :(");
             }else{
-                alert(" Tabrikliman ! " + name + ". Siz " + myPrize[myNum] + "ni egasi bo'ldingiz");
+                alert(" Tabriklayman ! " + name + ". Siz " + myPrize[myNum] + "ni egasi bo'ldingiz");
                 log(p9 + " : " + myPrize[myNum]);
             }
         }
