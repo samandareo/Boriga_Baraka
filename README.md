@@ -16,3 +16,5 @@ Kodni browser consollarida ishlating!
 
 
 _Skript_ mana shu browser consollarida sinovdan o'tdi.
+
+O'yinni hohlaganingizcha o'zgartiring.)
