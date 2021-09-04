@@ -12,7 +12,7 @@ let myPrize = {
     7 : "Qozon",
     8 : "Lampochka",
     9 : "Mebel",
-    10 : "Muzlatgich",
+    10 : "Muzlatgich"
 }
 
 // console
